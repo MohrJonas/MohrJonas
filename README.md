@@ -1,3 +1,5 @@
+Enjoy my work? Consider leaving me a small [tip](https://ko-fi.com/mohrjonas)🥳♥
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohrjonas&exclude_repo=DIYPhysicsExperiment,obsidian-releases&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/MohrJonas)  
   
   
